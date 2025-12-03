@@ -1,0 +1,111 @@
+Finish Reason: 1
+Response Length: 2509
+Response Start: {
+  "issues": [
+    {
+      "type": "Dark Spot",
+      "severity": "Mild",
+      "timeframe": "4-8 w
+Response End: nk_query": "cold compress"
+          }
+        ]
+      }
+    }
+  ],
+  "summary": "Found 3 issues."
+}
+Full Response: {
+  "issues": [
+    {
+      "type": "Dark Spot",
+      "severity": "Mild",
+      "timeframe": "4-8 weeks",
+      "location_y_min": 450,
+      "location_x_min": 650,
+      "location_y_max": 500,
+      "location_x_max": 700,
+      "recommendation": {
+        "am": "Vitamin C Serum, Sunscreen",
+        "pm": "Exfoliate, Moisturize",
+        "products": [
+          {
+            "name": "Vitamin C Serum",
+            "price_tier": "Mid-Range",
+            "link_query": "vitamin c serum"
+          },
+          {
+            "name": "Sunscreen SPF 30+",
+            "price_tier": "Affordable",
+            "link_query": "sunscreen spf 30"
+          },
+          {
+            "name": "Glycolic Acid Toner",
+            "price_tier": "Mid-Range",
+            "link_query": "glycolic acid toner"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Pores",
+      "severity": "Moderate",
+      "timeframe": "Ongoing management",
+      "location_y_min": 400,
+      "location_x_min": 400,
+      "location_y_max": 500,
+      "location_x_max": 500,
+      "recommendation": {
+        "am": "Cleanse, Niacinamide Serum",
+        "pm": "Cleanse, Retinol (2-3 times per week)",
+        "products": [
+          {
+            "name": "Niacinamide Serum",
+            "price_tier": "Mid-Range",
+            "link_query": "niacinamide serum"
+          },
+          {
+            "name": "Retinol Serum",
+            "price_tier": "Mid-Range",
+            "link_query": "retinol serum"
+          },
+          {
+            "name": "Clay Mask",
+            "price_tier": "Affordable",
+            "link_query": "clay mask"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Eye Bags",
+      "severity": "Mild",
+      "timeframe": "Ongoing management",
+      "location_y_min": 350,
+      "location_x_min": 250,
+      "location_y_max": 400,
+      "location_x_max": 350,
+      "recommendation": {
+        "am": "Hydrating Eye Cream",
+        "pm": "Hydrating Eye Cream",
+        "products": [
+          {
+            "name": "Caffeine Eye Cream",
+            "price_tier": "Mid-Range",
+            "link_query": "caffeine eye cream"
+          },
+          {
+            "name": "Hyaluronic Acid Eye Serum",
+            "price_tier": "Mid-Range",
+            "link_query": "hyaluronic acid eye serum"
+          },
+          {
+            "name": "Cold Compress",
+            "price_tier": "Affordable",
+            "link_query": "cold compress"
+          }
+        ]
+      }
+    }
+  ],
+  "summary": "Found 3 issues."
+}
